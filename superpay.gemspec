@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'brdinheiro'
   spec.add_dependency 'brdata'
-  spec.add_dependency 'savon', '2.2'
+  spec.add_dependency 'savon', '~> 2.2'
 
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
